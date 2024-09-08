@@ -1,3 +1,5 @@
+# CUP-GALLERY Public
+2018 | Wev development
 
 # CUP GALLERY - 학술제 제출 웹페이지 프로젝트
 
